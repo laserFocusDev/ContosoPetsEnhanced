@@ -17,11 +17,11 @@ I've made a few **enhancements** to spice it up, such as:
 - Structured using a 2D array
 
 ##Tech I've Used:
--Language: C#
--Environment: Console App
--IDE: Visual Studio Code
+- Language: C#
+- Environment: Console App
+- IDE: Visual Studio Code
 
-##License
+##License: 
 This project is licensed under the MIT license. 
 
-PS: Go easy on me this is my first project ever!
+PS: Go easy on me this is my first project ever! I'm learning new things, improving everyday. Feedback is welcome, and if you find something broken… pretend you didn’t. Just kidding. Mostly.
